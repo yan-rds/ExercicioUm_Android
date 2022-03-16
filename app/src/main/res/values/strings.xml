@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercicio1</string>
+    <string name="total_da_compra">Total da Compra</string>
+    <string name="refrigerante_coca_cola_r_3_00">Refrigerante coca-cola (R$ 3,00)</string>
+</resources>
